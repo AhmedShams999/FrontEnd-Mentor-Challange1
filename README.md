@@ -1,2 +1,2 @@
-# FrontEnd-Mentor-Challange1
+# FrontEnd-Mentor-Challenge1
 FAQ accordion card
